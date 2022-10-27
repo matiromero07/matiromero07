@@ -9,7 +9,7 @@ public class Main {
         pantoneMap.addCode(4, 142);
         pantoneMap.addCode(6, 152);
 
-        //pantoneMap.removeCode(1);
+        pantoneMap.removeCode(1);
 
         pantoneMap.addColor(1, "Blue");
         pantoneMap.addColor(2, "Yellow");
